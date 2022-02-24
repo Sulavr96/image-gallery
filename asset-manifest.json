@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/image-gallery/static/css/main.476b9ede.css",
+    "main.js": "/image-gallery/static/js/main.46ba1872.js",
+    "static/js/787.2440c5ec.chunk.js": "/image-gallery/static/js/787.2440c5ec.chunk.js",
+    "static/media/wood.jpg": "/image-gallery/static/media/wood.ef8f669e253efa23ffba.jpg",
+    "static/media/chicago.jpg": "/image-gallery/static/media/chicago.fa70dec5021affe482d2.jpg",
+    "static/media/mountain.jpg": "/image-gallery/static/media/mountain.79ccaf1de0ebae3d42d1.jpg",
+    "static/media/cloud.jpg": "/image-gallery/static/media/cloud.dfcc64a958cdea61775b.jpg",
+    "static/media/mirage.jpg": "/image-gallery/static/media/mirage.7def4ed346ab4c699d68.jpg",
+    "static/media/sunset.jpg": "/image-gallery/static/media/sunset.53a5977dccd2755238ae.jpg",
+    "static/media/fire.jpg": "/image-gallery/static/media/fire.b42bb6ef8b2287339fcf.jpg",
+    "static/media/coffee.jpg": "/image-gallery/static/media/coffee.c658685ec3d8e2b80ac9.jpg",
+    "index.html": "/image-gallery/index.html",
+    "main.476b9ede.css.map": "/image-gallery/static/css/main.476b9ede.css.map",
+    "main.46ba1872.js.map": "/image-gallery/static/js/main.46ba1872.js.map",
+    "787.2440c5ec.chunk.js.map": "/image-gallery/static/js/787.2440c5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.476b9ede.css",
+    "static/js/main.46ba1872.js"
+  ]
+}
