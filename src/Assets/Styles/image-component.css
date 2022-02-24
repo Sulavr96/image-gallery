@@ -1,0 +1,44 @@
+.container-wrapper {
+    height: 10vh;
+}
+
+.image-container{
+    position: relative;
+}
+
+.container-image{
+    width: 100%;
+    object-fit: cover;
+    height: 350px;
+}
+
+.col {
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+
+
+@media only screen and (min-width: 640px) {
+    .col {
+        width: 50%;
+    }   
+}
+
+@media only screen and (min-width: 992px) {
+    .col {
+        width: 33.33%;
+    }   
+}
+
+@media only screen and (min-width: 1200px) {
+    .col {
+        width: 25%;
+    }   
+}
+
+@media only screen and (min-width: 1500px) {
+    .col {
+        width: 20%;
+    }   
+}
