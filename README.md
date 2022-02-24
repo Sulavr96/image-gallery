@@ -1,4 +1,4 @@
 # image-gallery
-## Clone the repo
-## run npm install
-## run npm start
+> 1. Clone the repo
+> 2. run npm install
+> 3. run npm start
